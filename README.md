@@ -13,9 +13,9 @@
 
 - 💬 Ask me about **whatever under my knowledge set.**
 
-- 📫 How to reach me **devanshbhavsar312@gmail.com**
+- 📫 How to reach me: **devanshbhavsar312@gmail.com**
 
-- ⚡ Fun fact **"Despite the fact that their names include the same word, JavaScript has nothing to do with Java"**
+- ⚡ Fun fact --> **"Despite the fact that their names include the same word, JavaScript has nothing to do with Java"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
