@@ -3,7 +3,7 @@
 <h3 align="center">A learner who is trying to grab technical knowledge as much as he can.</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/software-engineer-writing-code-computer-coder-programming-database-programmer-typing-script-solves-problems-algorithm-digital-development-flat-isolated-vector-illustration-white_633472-6162.jpg?semt=ais_hybrid">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devanshb312&label=Profile%20views&color=0e75b6&style=flat" alt="devanshb312" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devanshb312&label=Profile%20views&color=0e75b6&style=flat" alt="devanshb312"/> </p>
 
 - 🔭 I’m currently working on **Web dev projects**
 
@@ -29,8 +29,6 @@
 <br>
 
 ![](https://github-readme-stats.vercel.app/api?username=devanshb312&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=devanshb312&theme=dark&hide_border=false)<br/>
-<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=devanshb312&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
